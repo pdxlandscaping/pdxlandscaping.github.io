@@ -283,13 +283,13 @@ a:active {
 
     .lighting {
       background-attachment: scroll;
-      padding-top: 10px;
+      padding-top: 10px !important;
       height: 550px;
     }
 
     .walkway {
       background-attachment: scroll;
-      padding-top: 10px;
+      padding-top: 10px !important;
       height: 550px;
     }
 
