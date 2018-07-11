@@ -278,7 +278,18 @@ a:active {
 @media (max-width: 767px) {
     .main-header {
     padding-top: 200px;
+    background-attachment: scroll;
     }
+
+    .lighting {
+      background-attachment: scroll;
+    }
+
+    .walkway {
+      background-attachment: scroll;
+    }
+
+
 }
 
 @media (min-width: 1250px) {
@@ -292,7 +303,6 @@ a:active {
       padding-top: 25px;
     }
 }
-
 /* End Of Media Qs */
 
 /* Light Box To End*/
