@@ -279,18 +279,30 @@ a:active {
     .main-header {
     padding-top: 200px;
     background-attachment: scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
     }
 
     .lighting {
       background-attachment: scroll;
       padding-top: 10px !important;
       height: 550px;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
     }
 
     .walkway {
       background-attachment: scroll;
       padding-top: 10px !important;
       height: 550px;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
     }
 
 
